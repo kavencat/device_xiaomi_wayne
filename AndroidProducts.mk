@@ -6,9 +6,9 @@
 
 # inherit device config for ShapeShiftOS
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_wayne.mk
+    $(LOCAL_DIR)/cherish_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_wayne-eng \
-    ssos_wayne-userdebug \
-    ssos_wayne-user
+    cherish_wayne-eng \
+    cherish_wayne-userdebug \
+   cherish_wayne-user
