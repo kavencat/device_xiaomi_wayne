@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     cherish_wayne-eng \
     cherish_wayne-userdebug \
-   cherish_wayne-user
+    cherish_wayne-user
