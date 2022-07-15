@@ -37,7 +37,7 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.cherish.maintainer=hungphan2001
 PRODUCT_PRODUCT_PROPERTIES += \
-  ro.ssos.cpu=SDM660
+  ro.cherish.cpu=SDM660
 
 # GApps
 TARGET_GAPPS_ARCH := arm64
